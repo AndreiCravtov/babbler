@@ -1,0 +1,6 @@
+[submodule "rust/babeld"]
+	path = rust/babeld
+	url = git@github.com:AndreiCravtov/babeld.git
+[submodule "rust/iperf"]
+	path = rust/iperf
+	url = git@github.com:AndreiCravtov/iperf.git
